@@ -2,6 +2,6 @@ Coding Challenge
 ----------------
 
 
-By [Haylee](https://codepen.io/TheHayleeColon) on [CodePen](https://codepen.io).
+By [Haylee](https://codepen.io/TheHayleeColon)
 
 [License](https://codepen.io/TheHayleeColon/pen/bGgOXNW/license).
